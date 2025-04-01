@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
         <div className="footer-bottom">
             <div className='footer-bottom-text'>
-                <p class="compliance-text">The information provided on this website is for informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. The products mentioned are not intended to diagnose, treat, cure, or prevent any disease. Results may vary from person to person. Never disregard professional medical advice or delay in seeking it because of something you have read on this website.</p>
+                <p className="compliance-text">The information provided on this website is for informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. The products mentioned are not intended to diagnose, treat, cure, or prevent any disease. Results may vary from person to person. Never disregard professional medical advice or delay in seeking it because of something you have read on this website.</p>
             </div>
         </div>
         </footer>
