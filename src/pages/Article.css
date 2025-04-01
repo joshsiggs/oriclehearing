@@ -1,0 +1,30 @@
+.article-page-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.article-body-wrapper p {
+    text-align: left;
+}
+
+.article-content {
+    flex: 1;
+}
+
+.reviews-sidebar {
+    width: 300px; /* Adjust as needed for your design */
+}
+
+/* Mobile: stack columns vertically */
+@media (max-width: 768px) {
+    .article-page-wrapper {
+        flex-direction: column;
+    }
+    .reviews-sidebar {
+        width: 100%;
+    }
+}

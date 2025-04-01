@@ -1,0 +1,15 @@
+.reviews-section-wrapper {
+    margin-top: 40px;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
+.reviews-title {
+    margin-bottom: 20px;
+}
+
+.reviews-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}  

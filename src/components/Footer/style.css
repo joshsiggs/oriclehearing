@@ -1,0 +1,97 @@
+/* Footer Main Container */
+.footer {
+    background-color: #f6f6f6; /* Light background */
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+/* Top section: Logo & Links */
+.footer-top {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px 15px;
+    border-bottom: 1px solid #444;
+}
+
+.footer-logo img {
+    height: 40px;
+}
+
+.footer-links {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.footer-links a {
+    color: #333; /* Accent color */
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+/* Middle section: Disclaimer Text */
+.footer-mid,
+.footer-bottom {
+    background-color: #59797c;
+    padding: 15px;
+}
+
+.footer-mid-text,
+.footer-bottom-text {
+    max-width: 1200px;
+    margin: 0 auto !important;
+    font-size: 12px;
+    line-height: 1.4;
+    margin: 10px 0;
+}
+
+.footer-mid-text p,
+.footer-bottom-text p {
+    color: #ffffff !important;
+}
+
+.footer-bottom {
+    background-color: #59797c;
+}
+
+/* Sticky CTA Bar */
+.sticky-cta {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #24c75a; /* Dark background */
+    padding: 15px 0;
+    box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    z-index: 100;
+}
+
+.sticky-cta:hover {
+    background-color: #0ee950;
+}
+
+.cta-button:hover {
+    color: #b2e6fa;
+}
+
+.cta-button {
+    background-color: #fff;
+    color: #24c75a;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+{
+    "reviews": [
+        {
+            "name": "Grandma Jean",
+            "location": "Chicago, IL",
+            "review": "I just love these, I can hear crystal clear. My confidence has been restored.",
+            "image": "https://cdn.prod.website-files.com/659c43e1489e1b16282815cf/659c47ac79e1edeab0aabe1d_AUTHOR-PHOTO-1.jpg"
+        },
+        {
+            "name": "Bob Johnson",
+            "location": "Atlanta, GA",
+            "review": "These discreet hearing aids are unnoticeable. I can talk with my grandchildren and friends without having to have them talk into my ear.",
+            "image": "https://cdn.prod.website-files.com/659c43e1489e1b16282815cf/659c4788351f5f80c5f610da_AUTHOR-PHOTO-2.jpeg"
+        },
+        {
+            "name": "Gwnyne Kinghtly",
+            "location": "Los Angeles, CA",
+            "review": "I bought these for my husband, because he was denying his hearing was bad. He has thanked me for getting these for him and he is back to his normal lifestyle.",
+            "image": "https://cdn.prod.website-files.com/659c43e1489e1b16282815cf/659c47660a5c299a2c2f6a62_AUTHOR-PHOTO-3-p-500.png"
+        },
+        {
+            "name": "Mark Brown",
+            "location": "Cleveland, OH",
+            "review": "Wow, these work great! I'm so surprised with the crisp sounds I can hear with no ringing or disruptive background noise",
+            "image": "https://cdn.prod.website-files.com/659c43e1489e1b16282815cf/659c4731ca5b4bb16bcadd1e_AUTHOR-PHOTO-4.jpeg"
+        }
+    ]
+}
