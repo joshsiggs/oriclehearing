@@ -117,7 +117,8 @@
             },
             {
                 "type": "button",
-                "text": "Apply Discount & Check Availability"
+                "text": "Apply Discount & Check Availability",
+                "target": "https://go.oriclehearing.com/action/1?vid=fKeLGBkmPif4Vy4ARsxR6poy1x&n=31SjOgXMPujN&rn=31SjOgXMPujN&_gl=1*1ez55lc*_gcl_au*MjAyNzk4NTI5MC4xNzQzMDMxMTgx"
             }
         ]
     }

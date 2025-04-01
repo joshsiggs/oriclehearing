@@ -20,7 +20,7 @@ const ContentItem = ({ item }) => {
         case 'testimonial':
             return <blockquote className="testimonial" dangerouslySetInnerHTML={createMarkup(item.text)} />;
         case 'button':
-            return <button className="action-button">{item.text}</button>;
+            return <button className="action-button"><a href="https://go.oriclehearing.com/action/1?vid=fKeLGBkmPif4Vy4ARsxR6poy1x&n=31SjOgXMPujN&rn=31SjOgXMPujN&_gl=1*1ez55lc*_gcl_au*MjAyNzk4NTI5MC4xNzQzMDMxMTgx">{item.text}</a></button>;
         default:
             return null;
     }

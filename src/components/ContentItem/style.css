@@ -43,6 +43,10 @@
     margin: 20px 0;
 }
 
+.action-button a {
+    color: #fff;
+}
+
 .action-button:hover {
     background-color: #3be576;
 }
