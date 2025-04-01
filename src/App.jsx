@@ -10,7 +10,6 @@ import Terms from "./pages/Terms.jsx";
 import Privacy from "./pages/Privacy.jsx";
 import NotFound from "./pages/NotFound.jsx";
 import './App.css'
-import "./assets/scripts/main.js";
 
 function App() {
   
