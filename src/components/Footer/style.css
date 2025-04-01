@@ -25,7 +25,7 @@
 
 .footer-links {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     flex-wrap: wrap;
 }
 
@@ -37,6 +37,13 @@
 
 .footer-links a:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 510px) {
+    .footer-links {
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 /* Middle section: Disclaimer Text */

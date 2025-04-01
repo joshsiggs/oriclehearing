@@ -7,11 +7,10 @@ const Footer = () => {
         <footer className="footer">
         <div className="footer-top">
             <div className="footer-links">
-                <a href="/privacy">Privacy</a>
-                <a href="/terms">Terms</a>
+                <a href="/privacy">Privacy Terms</a>
                 <a href="/contact">Contact Us</a>
-                <a href="/toc">T&amp;C</a>
-                <a href="https://4am.everflowclient.io/affiliate/signup/?q=5J473L&vid=fKeLGBkmPif4Vy4ARsxR6poy1x&n=31SjOgXMPujN">Affiliate</a>
+                <a href="/terms">Terms &amp; Conditions</a>
+                <a href="https://4am.everflowclient.io/affiliate/signup/?q=5J473L&vid=fKeLGBkmPif4Vy4ARsxR6poy1x&n=31SjOgXMPujN">Become an Affiliate</a>
             </div>
             <div className="footer-logo">
                 <img src="/images/oricle-logo.png" alt="Website Logo" />
